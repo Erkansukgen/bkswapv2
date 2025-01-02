@@ -13,7 +13,7 @@
     "bignumber.js": "^9.1.0",
     "hardhat-gas-reporter": "^1.0.8",
     "install": "^0.13.0",
-    "jest-environment-hardhat": "^1.1.8",
+    "jest-environment-hardhat": "^1.1.9",
     "npm": "^8.19.2"
   }
 }
