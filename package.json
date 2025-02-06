@@ -6,7 +6,7 @@
     "hardhat": "^2.10.1"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.7.3",
+    "@openzeppelin/contracts": "^5.2.0",
     "@uniswap/sdk-core": "^3.0.1",
     "@uniswap/smart-order-router": "^2.9.3",
     "axios": "^0.27.2",
