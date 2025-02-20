@@ -11,7 +11,7 @@
     "@uniswap/smart-order-router": "^2.9.3",
     "axios": "^0.27.2",
     "bignumber.js": "^9.1.0",
-    "hardhat-gas-reporter": "^1.0.8",
+    "hardhat-gas-reporter": "^2.0.0",
     "install": "^0.13.0",
     "jest-environment-hardhat": "^1.1.8",
     "npm": "^8.19.2"
