@@ -14,6 +14,6 @@
     "hardhat-gas-reporter": "^1.0.8",
     "install": "^0.13.0",
     "jest-environment-hardhat": "^1.1.8",
-    "npm": "^8.19.2"
+    "npm": "^11.3.0"
   }
 }
